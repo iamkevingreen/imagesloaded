@@ -5,7 +5,7 @@ ImagesLoaded - Meteor
 
 Meteor packaging of Imagesloaded
 
-*previous meteor package was super outdated and the uploaded doesn't appear to be active on git anymore*
+*previous meteor package was super outdated and the original author doesn't appear to be active on git anymore*
 
 ##Usage:
 
